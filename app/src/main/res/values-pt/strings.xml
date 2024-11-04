@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Qual Combustivel?</string>
+    <string name="ethanol_result">Etanol é mais vantajoso</string>
+    <string name="gasoline_result">Gasolina é mais vantajosa</string>
+    <string name="message_gasolina">Insira o valor da gasolina</string>
+    <string name="message_alcool">Insira o valor do álcool</string>
+    <string name="buttom_message">Mostre a melhor opção</string>
+    <string name="error_message">Informe o valor dos dois combustíveis.</string>
+    <string name="invalid_value">Valor inválido.</string>
+</resources>

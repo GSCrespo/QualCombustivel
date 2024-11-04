@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Which Fuel?</string>
+    <string name="ethanol_result">Ethanol is more advantageous</string>
+    <string name="gasoline_result">Gasoline is more advantageous</string>
+    <string name="message_gasolina">Enter the price of gasoline</string>
+    <string name="message_alcool">Enter the amount of alcohol</string>
+    <string name="buttom_message">Show the best option</string>
+    <string name="error_message">Enter the value of the two fuels.</string>
+    <string name="invalid_value">Invalid value.</string>
+
+
+</resources>

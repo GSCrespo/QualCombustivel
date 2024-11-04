@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">¿Qué combustible?</string>
+    <string name="ethanol_result">El etanol es más ventajoso</string>
+    <string name="gasoline_result">El gasoline es más ventajoso</string>
+    <string name="message_gasolina">Introduce el precio de la gasolina.</string>
+    <string name="message_alcool">Introduce el precio de la alcohol</string>
+    <string name="buttom_message">Mostrar la mejor opción</string>
+    <string name="error_message">Introduzca el valor de los dos combustibles.</string>
+    <string name="invalid_value">Valor no válido.</string>
+
+</resources>
